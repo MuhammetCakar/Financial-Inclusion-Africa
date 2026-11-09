@@ -23,7 +23,7 @@
 | 13 | Issues anlegen, Milestones und Personen zuordnen | Andi | Mo | ⏳ |
 | 14 | Zindi-Challenge beitreten, Daten herunterladen | Muhammet | Mo | ✅ |
 | 15 | Daten in data/ legen, in .gitignore eintragen | Muhammet | Mo | ✅ |
-| 16 | Milestone 0: Daten im Notebook laden | beide | Mo | ⏳ |
+| 16 | Milestone 0: Daten im Notebook laden | beide | Mo | ✅ |
 | 17 | Coach-Tabelle: eigene Spalte und Namen | Muhammet | Mo | ⏳ |
 
 ## Dienstag, 10.11. – EDA
