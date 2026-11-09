@@ -17,12 +17,12 @@
 | 7 | Repo umbenennen | Muhammet | Mo | ✅ |
 | 8 | Andi als Collaborator einladen | Muhammet | Mo | ✅ |
 | 9 | Einladung annehmen, Repo klonen, uv sync | Andi | Mo | ✅ |
-| 10 | Zindi-Konto Andi (optional) | Andi | Mo | ⏳ |
-| 11 | Kanban-Board anlegen und mit Repo verknüpfen (optional) | Andi | Mo | ⏳ | 
+| 10 | Zindi-Konto Andi (optional) | Andi | Mo | ✅ |
+| 11 | Kanban-Board anlegen und mit Repo verknüpfen (optional) | Andi | Mo | ✅ | 
 | 12 | 5 Milestones anlegen | Andi | Mo | ⏳ |
 | 13 | Issues anlegen, Milestones und Personen zuordnen | Andi | Mo | ⏳ |
-| 14 | Zindi-Challenge beitreten, Daten herunterladen | Muhammet | Mo | ⏳ |
-| 15 | Daten in data/ legen, in .gitignore eintragen | Muhammet | Mo | ⏳ |
+| 14 | Zindi-Challenge beitreten, Daten herunterladen | Muhammet | Mo | ✅ |
+| 15 | Daten in data/ legen, in .gitignore eintragen | Muhammet | Mo | ✅ |
 | 16 | Milestone 0: Daten im Notebook laden | beide | Mo | ⏳ |
 | 17 | Coach-Tabelle: eigene Spalte und Namen | Muhammet | Mo | ⏳ |
 
