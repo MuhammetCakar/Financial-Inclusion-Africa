@@ -14,12 +14,12 @@
 | 4 | Zindi-Konto Muhammet | Muhammet | Mo | ✅ |
 | 5 | Milestone-Texte vorbereiten | Muhammet | Mo | ✅ |
 | 6 | Repo festlegen und Aufgaben verteilen | beide | Mo | ✅ |
-| 7 | Repo umbenennen | Muhammet | Mo | ⏳ |
-| 8 | Andi als Collaborator einladen | Muhammet | Mo | ⏳ |
-| 9 | Einladung annehmen, Repo klonen, uv sync | Andi | Mo | ⏳ |
+| 7 | Repo umbenennen | Muhammet | Mo | ✅ |
+| 8 | Andi als Collaborator einladen | Muhammet | Mo | ✅ |
+| 9 | Einladung annehmen, Repo klonen, uv sync | Andi | Mo | ✅ |
 | 10 | Zindi-Konto Andi (optional) | Andi | Mo | ⏳ |
-| 11 | Kanban-Board anlegen und mit Repo verknüpfen | Andi | Mo | ⏳ |
-| 12 | 5 Milestones auf GitHub anlegen | Andi | Mo | ⏳ |
+| 11 | Kanban-Board anlegen und mit Repo verknüpfen (optional) | Andi | Mo | ⏳ | 
+| 12 | 5 Milestones anlegen | Andi | Mo | ⏳ |
 | 13 | Issues anlegen, Milestones und Personen zuordnen | Andi | Mo | ⏳ |
 | 14 | Zindi-Challenge beitreten, Daten herunterladen | Muhammet | Mo | ⏳ |
 | 15 | Daten in data/ legen, in .gitignore eintragen | Muhammet | Mo | ⏳ |
