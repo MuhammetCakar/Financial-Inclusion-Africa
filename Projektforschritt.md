@@ -1,6 +1,6 @@
 # Fortschritt – Financial Inclusion in Africa
 
-**Team:** Muhammet, Andi
+**Team:** Andi, Muhammet
 **Repo:** ds-ml-project-template (Besitzer: Muhammet)
 **Legende:** ✅ erledigt · 🔄 in Arbeit · ⏳ offen
 
@@ -39,25 +39,24 @@
 
 | Nr. | Schritt | Wer | Frist | Status |
 | --- | --- | --- | --- | --- |
-| 21 | Milestone 2: Baseline bauen und Score messen | Muhammet | Mi 10:00 | ⏳ |
+| 21 | Milestone 2: Baseline bauen und Score messen | Muhammet | Mi 10:00 | ✅ |
 | 22 | Coach-Tabelle: Basismodell und Basisergebnis | Muhammet | Mi 10:00 | ✅ |
-| 23a | Modell 1 mit Pipeline, CV und Tuning | Muhammet | Mi | ⏳ |
-| 23b | Modelle 2 und 3 mit Pipeline, CV und Tuning | Andi | Mi | ⏳ |
+| 23a | Modell 1 mit Pipeline, CV und Tuning | Muhammet | Mi | ✅|
+| 23b | Modelle 2 und 3 mit Pipeline, CV und Tuning | Andi | Mi | ✅ |
 
 ## Donnerstag, 12.11. – Bestes Modell und Folien
 
 | Nr. | Schritt | Wer | Frist | Status |
 | --- | --- | --- | --- | --- |
-| 24 | Coach-Tabelle: verbessertes Modell #1 | beide | Do 10:00 | ⏳ |
-| 25 | Milestone 3: bestes Modell, Test-Score, Fehleranalyse | beide | Do 12:00 | ⏳ |
-| 26 | Coach-Tabelle: verbessertes Modell #2 | beide | Do 14:00 | ⏳ |
-| 27 | Optional: Vorhersagen bei Zindi einreichen | Andi | Do | ⏳ |
-| 28a | Folien: Geschäftsnutzen und Datenprodukt | Muhammet | Do | ⏳ |
-| 28b | Folien: Daten, Modelle, Ergebnisse | Andi | Do | ⏳ |
-| 29 | Notebook aufräumen (PEP 8), alles auf GitHub | beide | Do | ⏳ |
+| 24 | Coach-Tabelle: verbessertes Modell #1 | beide | Do 10:00 | ✅ |
+| 25 | Milestone 3: bestes Modell, Test-Score, Fehleranalyse | beide | Do 12:00 | ✅ |
+| 26 | Coach-Tabelle: verbessertes Modell #2 | beide | Do 14:00 | ✅ |
+| 27 | Folien: Geschäftsnutzen und Datenprodukt | Muhammet | Do | ✅|
+| 28 | Folien: Daten, Modelle, Ergebnisse | Andi | Do | ✅|
+| 29 | Notebook aufräumen (PEP 8), alles auf GitHub | beide | Do | ✅ |
 
 ## Freitag, 13.11. – Abgabe
 
 | Nr. | Schritt | Wer | Frist | Status |
 | --- | --- | --- | --- | --- |
-| 30 | Milestone 4: Folien als PDF auf GitHub, Präsentation | beide | Fr 14:00 | ⏳ |
+| 30 | Milestone 4: Folien als PDF auf GitHub, Präsentation | beide | Fr 14:00 | ✅ |
